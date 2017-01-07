@@ -1,0 +1,847 @@
+/* 1280px to 1170px */
+@media screen and (max-width: 1280px) {
+.rtl .widget-event article .map-btn { position: inherit; }
+.rtl .event-info .cs-author-sec h6 { margin: 20px 0 0; }
+.rtl .event-info .cs-share-post a {
+	border-left: 0;
+	border-right: 1px solid #f1f1f1;
+}
+}
+
+/* 1170px to 980px or 768px */
+@media screen and (max-width: 1170px) {
+.cs-main-nav > ul > li > a { padding: 21px 10px; }
+.cs-main-nav { font-size: 15px; }
+.cs-about-home figure.col-md-7 img,
+.div-content .col-md-9,
+.div-sidebar.col-md-3,
+.cs-about-author .cs-social-media,
+.cs-tabs #leftTabs,
+.cs-tabs-holder .tab-content,
+.countdownHolder { width: 100%; }
+.div-sidebar.col-md-3 .widget,
+.page-sidebar.col-md-3 .widget {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+	padding: 0 10px;
+}
+.rtl .cs-suggestions .subscribe i{
+	left:13px;
+	right:auto;
+}
+.top-links-strip .top-text { font-size: 14px; }
+.cs-about-author .cs-social-media ul {
+	text-align: left;
+	margin-top: 20px;
+}
+/* Defulte page */
+ul.cs-tweet-list { width: 84%!important; }
+.cs-tabs .nav-tabs > li > a {
+	font-size: 12px;
+	padding: 10px 14px;
+}
+.cs-counter { background-size: cover; }
+.cs-count a { font-size: 38px; }
+.text-widget.col-md-3 { margin-bottom: 10px; }
+.call-actions .cell.heading { width: 70.555%; }
+.cs-small-gallery ul li { width: 19.6%; }
+.cs-quicklinks-pastor .cs-gallery-content figure figcaption { padding: 0 20px 30px 30px; }
+.cs-sm-team-content {
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-top: 30px;
+}
+.cs-instagram .second-effect:hover .mask { border: 78px solid rgba(0, 0, 0, 0.7); }
+.countdown-sec .countdown-alt-1 { height: inherit; }
+.widget-event article .map-btn { margin: 35px 0 0; }
+.cs-blog .cs-audio .jp-audio .jp-type-single .jp-progress {
+	left: 10%;
+	width: 60%;
+}
+/*============ Rtl Responsvies Style ============ */
+.rtl .cs-quicklinks-pastor .cs-gallery-content figure figcaption { padding: 0px 30px 30px 10px!important; }
+.rtl .cs-count-down .countdown-alt-2 { transform: skew(0deg) !important; }
+.rtl .gm-style-iw div { padding-right: 10px; }
+.rtl .div-sidebar.col-md-3,
+.rtl .page-sidebar.col-md-3 { width: 25%; }
+.rtl .div-sidebar.col-md-3 .widget,
+.rtl .page-sidebar.col-md-3 .widget { width: 100%; }
+.rtl .widget-event article .cs-text { padding-right: 2px; }
+.rtl .widget-event article .cs-text h6 { font-size: 15px !important; }
+.rtl .cs-events.list .cs-share-post a { margin: 0 5px 0 0; }
+.rtl .event-info .cs-share-post a,
+.event-info .cs-share-post a { width: 48%; }
+.rtl .slick-slider { direction: ltr; }
+.widget.widget_custom_gallery .gallery-list li{
+	width:23%;
+}
+}
+
+/* 980px to 768px */
+/* If Required */
+/*@media screen and (max-width: 980px) {
+
+}*/
+@media screen and (max-width: 991px) {
+.rtl .slick-slider { direction: ltr; }
+.rtl .widget.col-md-3.widget_news-letter { margin-top: 20px !important; }
+.rtl .widget.col-md-3.widget_twitter { margin-top: 20px !important; }
+.rtl .page-sidebar.col-md-3 { width: 100%; }
+.div-sidebar.col-md-3 .widget,
+.page-sidebar.col-md-3 .widget {
+	padding: 0 10px;
+	float: none;
+	display: inline-block;
+	vertical-align: top;
+}
+.cs-img-frame { margin-bottom: 30px; }
+#footer .widget.col-md-3 {
+	width: 49%;
+	float: left;
+}
+.cs-about-home .col-md-7,
+.cs-about-home .col-md-7 img {
+	width: 100%;
+	margin-bottom: 10px;
+}
+.div-sidebar.col-md-3,
+.page-sidebar.col-md-3,
+.view,
+.cs-instagram figure,
+.cs-tabs #leftTabs,
+.cs-tabs-holder .tab-content,
+.cs-cont-serv .custom-box li.col-md-6,
+.countdownHolder,
+.cs-Sermon.medium article,
+.cs-image-pastor { width: 100%; }
+.thumbnails li { float: left; }
+/* Default page */
+ul.cs-tweet-list { width: 80%!important; }
+.cs-counter { background-size: cover; }
+.cs-instagram article { margin-bottom: 20px; }
+.cs-tabs .nav-tabs > li > a {
+	font-size: 10px;
+	padding: 10px 3px;
+}
+ul.cs-testmony li,
+.cs-gallery article {
+	display: inline-block;
+	vertical-align: top;
+	float: none;
+	margin: 0 -4px 0 0;
+}
+.div-sidebar,
+.text-widget.col-md-3,
+.pricing-box,
+.cs-activities article { margin-bottom: 20px; }
+.cs-small-gallery ul li { width: 33%; }
+
+
+.cs-detail-sec h4 { font-size: 16px; }
+.cs-audio-sec .jp-audio {
+	width: 88%;
+	margin-right: 10px;
+}
+.cs-quicklinks-pastor .cs-gallery-content figure figcaption { padding: 30px 20px 30px 30px; }
+.cs-quicklinks-pastor .cs-quick-links-content span::after,
+.cs-stay-contected-content span::after { top: 86px; }
+.cs-large-team figure,
+.cs-large-team figure img,
+.cs-large-team .cs-media { width: 100%; }
+.cs-sm-team-content { padding: 10px 10px; }
+.cs-large-team div {
+	overflow: inherit;
+	float: left;
+}
+.cs-gallery.small ul li { width: 33%; }
+.cs-sermon.list article { width: 100%; }
+.page-content .cs-sermon-list figure { margin: 0 0 15px 0; }
+.page-content .cs-sermon-list .cs-text { float: left; }
+.cs-team.large article { text-align: center; }
+#main .cs-team.large .cs-media {
+	display: inline-block;
+	float: none;
+	margin: 0 0 10px;
+}
+.cs-video-box {
+	width: 100%;
+	height: 100%;
+}
+.cs-msg .cs-text { margin: 0 30px; }
+.text-widget a { margin-bottom: 20px; }
+.has-shadow,
+.thumbnails li { margin-bottom: 16px; }
+.rtl .cs-gallery-content { margin-bottom: 30px; }
+.cs-gallery.medium .cs-gallery-content { margin-bottom: 10px; }
+.cs-instagram .second-effect:hover .mask { border: 125px solid rgba(0, 0, 0, 0.7); }
+/*============ Rtl Responsvies Style ============ */
+.rtl .cs-quicklinks-pastor .cs-gallery-content figure figcaption { padding: 10px 30px 30px 20px!important; }
+.rtl .cs-main-filter label { width: 100%; }
+.rtl .cs-section-title h2 { margin: 0 0 0 10px; }
+.rtl .cs-navbar-top-links li a { display: block; }
+.rtl .div-sidebar.col-md-3 .widget,
+.rtl .page-sidebar.col-md-3 .widget {
+	width: 100%;
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+	padding: 0 10px;
+}
+.rtl .div-sidebar { width: 100%; }
+.rtl .cs-events.list .cs-share-post a { margin: 0 5px 0 0; }
+.rtl .cs-events.list .cs-share-post { width: 25%; }
+.rtl .view.second-effect > img { width: 100%; }
+.rtl .second-effect:hover .mask { border: 127px solid rgba(0, 0, 0, 0.7); }
+.rtl .carousel-img-box { margin-bottom: 30px; }
+.page-sidebar.col-md-3,
+.rtl .page-sidebar.col-md-3 { width: 100%; }
+.rtl .div-sidebar { width: 100%; }
+}
+/* 767px to 480px */
+@media screen and (max-width: 768px) {
+/* Responsive Menu */
+.js .cs-main-nav>ul { display: none; }
+.js .slicknav_menu { display: block; }
+.logo { margin: 20px 0 0 0; }
+.top-text { margin-top: 15px; }
+.top-links-strip .top-text { width: 57%; }
+.navbar-top-links { margin-top: 10px; }
+.col-md-4,
+.page-sidebar.col-md-3,
+.col-md-3,
+.col-md-2 { width: 100%; }
+.breadcrumbs { width: 90%; }
+.breadcrumb-sec h1 {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.main-navigation-links {
+    border-top: none;
+    clear: both;
+    margin-top: 42px;
+    position: relative;
+    background: none;
+}
+
+#header   {
+	visibility:collapse;
+	display: none;
+}
+
+
+.breadcrumb-sec {
+	background-size: cover;
+	min-height: 250px;
+}
+/* Home page */
+.cs-blog .cs-post-options li { margin-bottom: 5px; }
+.cs-about-home figure img,
+.cs-about-home .col-md-7,
+.cs-blog.medium .cs-media,
+.div-sidebar.col-md-3,
+.div-sidebar.col-md-3 .widget,
+#footer .widget.col-md-3,
+.page-sidebar.col-md-3 .widget,
+.col-md-6,
+.col-md-7,
+.cs-blog .blog-info-sec .icon-sec,
+.cs-about-author figure img,
+.cs-about-author .cs-social-media,
+.view,
+.cs-tabs #leftTabs,
+.cs-tabs-holder .tab-content,
+.cs-instagram figure,
+.cs-main-filter ul,
+.slect-area,
+.cs-gallery-area figure img,
+.cs-error-content .cs-search-area > form,
+.countdownHolder,
+.event-list figure img,
+.cs-Sermon.medium article,
+.cs-image-pastor { width: 100%; }
+.rtl .cs-about-home figure img,
+.rtl .cs-about-home .col-md-7,
+.rtl .cs-blog.medium .cs-media,
+.rtl .div-sidebar.col-md-3,
+.rtl .div-sidebar.col-md-3 .widget,
+.rtl #footer .widget.col-md-3,
+.rtl .page-sidebar.col-md-3 .widget,
+.rtl .col-md-6,
+.rtl .col-md-7,
+.rtl .cs-blog .blog-info-sec .icon-sec,
+.rtl .cs-about-author figure img,
+.rtl .cs-about-author .cs-social-media,
+.rtl .view,
+.rtl .cs-tabs #leftTabs,
+.rtl .cs-tabs-holder .tab-content,
+.rtl .cs-instagram figure,
+.rtl .cs-main-filter ul,
+.rtl .slect-area,
+.rtl .cs-gallery-area figure img,
+.rtl .cs-error-content .cs-search-area > form,
+.rtl .countdownHolder,
+.rtl .event-list figure img,
+
+.rtl .cs-Sermon.medium article,
+.rtl .cs-image-pastor { width: 100%; }
+.cs-blog.medium .cs-blog-text {
+	overflow: inherit;
+	float: left;
+}
+.cs-about-home figure { margin-bottom: 10px; }
+.cs-blog.medium .cs-media { margin: 0px 0 15px 0; }
+.cs-about-home .col-md-7 { padding: 0px 15px; }
+#footer .widget {
+	margin-bottom: 15px;
+	display: inline-block;
+}
+.footer-links p {
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.footer-links { text-align: center; }
+.footer-links .social-media {
+	float: none;
+	display: inline-block;
+}
+.cs-blog .blog-info-sec .icon-sec,
+.cs-blog-editor .blog-info-sec .icon-sec { text-align: center; }
+.cs-blog-editor .cs-post-options li { margin-bottom: 5px; }
+.cs-tags ul li a { margin-bottom: 4px; }
+.cs-about-author .cs-text { overflow: inherit; }
+.cs-about-author figure {
+	width: 100%;
+	margin: 0 0 15px 0;
+}
+.default-btn { margin-bottom: 10px; }
+.cs-about-author .cs-social-media { float: none; }
+.cs-about-author { float: left; }
+.cs-about-author .cs-social-media ul { text-align: left; }
+.thumblist .cs-text-box {
+	overflow: inherit;
+	width: 100%;
+}
+.thumblist figure {
+	float: none;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+#cs-comments .children { padding: 0px; }
+/* Defulte page */
+.cs-video-holder p { padding: 0px; }
+.cs-mid-heading h1 { font-size: 24px; }
+.cs-acti-pics figure { margin-bottom: 15px; }
+.cs-counter,
+.cs-msg,
+.cs-sermons-slider,
+.cs-contact-form { background-size: cover; }
+.cs-instagram article { margin-bottom: 20px; }
+.cs-tabs .nav-tabs > li > a { padding: 10px 6px; }
+.cs-msg .cs-text { margin: 0px; }
+.slect-area { margin-bottom: 10px; }
+.cs-main-filter h3,
+.cs-main-filter .submit-btn {
+	display: inline-block;
+	float: none;
+}
+.prayer-holder .cs-filter-inner { text-align: center; }
+.cs-main-filter ul li {
+	width: 47%;
+	display: inline-block;
+	float: none;
+}
+.div-sidebar,
+.text-widget.col-md-3,
+.promo-box .col-md-6,
+.pricing-box { margin-bottom: 20px; }
+.cs-error-content .cs-search-area div input { width: 278px; }
+.cs-error-content .cs-search-area > form {
+	padding: 0 10px;
+	text-align: center;
+}
+.cs-error-content h2 { font-size: 100px; }
+.cs-construction-content { padding: 50px 10px 17px; }
+.cs-cons-text h2 { line-height: 32px; }
+.countdownHolder {
+	padding: 0 7px;
+	text-align: center;
+}
+.cs-main-filter .cs-filter-inner { text-align: center; }
+/* Events page */
+.cs-events.list .cs-text { overflow: inherit; }
+.cs-events.list figure {
+	width: 100%;
+	margin: 0 0 15px 0;
+}
+.cs-author-sec figure img,
+.cs-author-sec figure { width: auto; }
+.cs-events.list .cs-share-post a { margin: 0; }
+.cs-events.list .top-sec h2 { font-size: 18px; }
+.cs-large-team div,
+.cs-small-teamcontent div,
+.cs-medium-teamcontent {
+	overflow: inherit;
+	padding: 15px 0 0 0;
+}
+.cs-large-team .cs-media,
+.cs-small-teamcontent .cs-media {
+	float: none;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+.cs-small-gallery ul li { width: 49.5%; }
+.pagination ul li { margin-bottom: 4px; }
+/* sermon page */
+.cs-sermon.medium .cs-thumb {
+	width: 100%;
+	float: none;
+	margin: 0 0 0px 0;
+}
+.cs-sermon.medium .cs-text { margin-left: 10px; }
+.cs-sermon.list figure {
+	width: 100%;
+	float: none;
+	display: inline-block;
+	margin: 0 0 15px 0;
+}
+.cs-media-listing article { text-align: center; }
+.cs-number {
+	border-right: none;
+	padding: 20px;
+}
+.cs-number,
+.cs-detail-sec {
+	display: inline-block;
+	width: 100%;
+}
+.cs-detail-sec .btn-style1 { margin: 0 0 10px 0; }
+.cs-media-listing .cs-icons-style li:first-child { border-left: none; }
+.cs-media-listing .cs-icons-style li { border-top: 1px solid #ececec; }
+.cs-audio-sec .jp-audio { width: 80%; }
+.cs-quicklinks-pastor .cs-gallery-content figure figcaption {
+	margin: 40px 0 0 -25px;
+	padding: 10px;
+}
+.cs-quicklinks-pastor .cs-quick-links-content .cs-gallery-content { margin-top: 0px; }
+.cs-large-team figure,
+.cs-large-team figure img,
+.map-section img { width: 100%; }
+.cs-sm-team-content { padding: 0 10px; }
+.callbacks .caption { display: none; }
+.cs-instagram .second-effect:hover .mask { border: 211px solid rgba(0, 0, 0, 0.7); }
+.cs-gallery.small ul li { width: 49%; }
+.page-content .cs-sermon.list .cs-thumb { margin-right: 0; }
+.page-content .cs-sermon.list .cs-text {
+	padding: 20px 10px;
+	float: left;
+}
+.page-content .cs-posted { width: 62%; }
+.page-content .cs-sermon-detail .cs-info-detail { width: 38%; }
+.page-content .cs-detail-sec { padding: 15px 15px 25px; }
+#main .cs-team.large figure img { width: 100%; }
+.cs-team.large article { text-align: center; }
+#main .cs-team.large .cs-media {
+	display: inline-block;
+	float: none;
+	margin: 0 0 15px 0;
+}
+.carousel-img-box { display: block; }
+.blog-medium .cs-media {
+	width: 100%;
+	margin-bottom: 10px;
+}
+.cs-sermon.list .cs-media { float: none; }
+.cs-quick-links-content .cs-gallery-content { margin-bottom: 15px; }
+.rtl .cs-home-content .col-md-9 .row .col-md-5 { padding-right: 15px; }
+.rtl .cs-blog.medium .cs-media { margin-bottom: 15px; }
+.rtl .cs-blog .cs-post-options li { margin-bottom: 6px; }
+.rtl .pull-right,
+.rtl .navbar-top-links,
+.rtl .navbar-top-links li { float: right!important; }
+.rtl .cs-blog.medium .cs-media { margin: 0 0 15px 0 !important; }
+.rtl .back-home,
+.rtl .cs-error-content .cs-search-area input.btn {
+	display: inline-block;
+	float: none !important;
+}
+.rtl .cs-error-content .cs-search-area div input {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.rtl .cs-main-filter input[type="text"] { max-width: 100%; }
+.rtl .cs-large-team .cs-media,
+.rtl .cs-large-team .cs-media figure,
+.rtl .cs-small-teamcontent .cs-media { width: 100%; }
+.rtl .cs-small-teamcontent .cs-media figure {
+	width: 140px;
+	margin-bottom: 15px;
+}
+.rtl .cs-sermon.medium .cs-text { padding: 20px 25px 20px 20px !important; }
+.rtl .cs-about-author figure { margin-bottom: 15px!important; }
+.rtl .cs-sermon.list .cs-text { padding: 10px 0 0 0; }
+.rtl .cs-detail-sec { padding: 30px 24px 29px 15px!important; }
+.rtl .cs-large-team div { padding: 15px; }
+.rtl .page-content .cs-sermon-list .cs-text { width: 100%; }
+.rtl .blog-thumb .jp-volume-controls,
+.rtl .cs-sermon-detail .jp-volume-controls { right: -140px; }
+.rtl .blog-thumb .jp-audio .jp-type-single .jp-time-holder,
+.rtl .cs-sermon-detail .jp-audio .jp-type-single .jp-time-holder { right: -80px; }
+.rtl .blog-thumb .jp-audio .jp-type-single .jp-progress,
+.rtl .cs-sermon-detail .jp-audio .jp-type-single .jp-progress { width: 85%; }
+.rtl .cs-count-down .countdown-alt-2 .item {
+	float: none;
+	margin: 30px;
+}
+.cs-cons-text .cs-form { float: none; }
+.cs-cons-text .cs-form::after {
+	top: 62px;
+	right: 102px;
+}
+.cs-cons-text input[type="text"] { margin: 20px 0; }
+.rtl .cs-cons-text .cs-form { width: 100%; }
+.rtl .cs-cons-text input[type="text"] { width: 86%; }
+.rtl .cs-construction-socials { float: right; }
+.cs-cons-text input[type="submit"] { margin-top: 20px; }
+.date .seconds,
+.date .minutes,
+.date .hours,
+.date .days,
+.date .months,
+.date .years { margin: 0 25px 60px; }
+.rtl .widget-event article .cs-text { padding: 0 3px 0 0; }
+.rtl .second-effect:hover .mask { border: 268px solid rgba(0, 0, 0, 0.7); }
+.rtl .cs-author-sec figure,
+.cs-author-sec figure{
+	width:50px;
+}
+.rtl .cs-author-sec figure img,
+.cs-author-sec figure img{
+	width:100%;
+}
+.rtl .cs-team.large .cs-media, .rtl .cs-small-teamcontent .cs-media{
+	width:auto;
+}
+.cs-count{
+	padding:0 20px 20px;
+	overflow:hidden;
+}
+}
+ @media screen and (max-width: 640px) {
+.cs-count-down .countdown-alt-2 .item {
+	margin: 30px 20px !important;
+	float: none !important;
+}
+.rtl .blog-medium .cs-blog-text { overflow: visible; }
+.rtl .rtl .blog-thumb .jp-volume-controls,
+.rtl .cs-sermon-detail .jp-volume-controls { right: -120px; }
+.rtl .cs-events.list .cs-share-post {
+	display: inline-block;
+	width: 100%;
+	margin-right: 40px;
+}
+.rtl .second-effect:hover .mask { border: 227px solid rgba(0, 0, 0, 0.7); }
+.rtl .panel-group.cs-default.simple .panel-heading a { padding-left: 20px; }
+}
+ @media screen and (max-width: 520px) {
+.cs-error-content .cs-search-area input.btn {
+	float: none;
+	display: inline-block;
+	margin: 10px 0 0 0;
+}
+.countdownHolder span { font-size: 140px; }
+.position { margin-left: -88px; }
+.countHours::after,
+.countDays::after,
+.countSeconds::after,
+.countMinutes::after { margin-left: -48px; }
+.cs-audio-sec .jp-audio { width: 72%; }
+.cs-instagram .second-effect:hover .mask { border: 166px solid rgba(0, 0, 0, 0.7); }
+}
+/* 480px to 320px */
+@media screen and (max-width: 480px) {
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12 { width: 100%; }
+.cs-blog .blog-info-sec,
+.cs-blog-editor .blog-info-sec,
+.cs-blog-editor .blog-info-sec .icon-sec,
+.cs-instagram figure,
+.cs-tabs #leftTabs,
+.cs-instagram figure img,
+.cs-tabs-holder .tab-content,
+.nav-tabs > li,
+.cs-main-filter ul li,
+.slect-area,
+.cs-suggestions .subscribe,
+.cs-error-content .cs-search-area > form,
+.cs-small-gallery ul li,
+.top-links-strip .top-text { width: 100%; }
+.cs-blog .blog-info-sec,
+.cs-blog-editor .blog-info-sec { margin: 0 0 10px 0; }
+.cs-blog .blog-detail-sec,
+.cs-blog-editor .cs-post-panel {
+	float: left;
+	overflow: inherit;
+}
+.cs-blog-editor .blog-info-sec .icon-sec,
+.prayer-holder .cs-filter-inner { text-align: center; }
+.nav-tabs > li { margin-bottom: 3px; }
+.cs-prayer-list .likes-area li {
+	margin: 0 0 10px 0;
+	display: inline-block;
+}
+.cs-prayer-list .text {
+	padding: 0 30px 0 40px;
+}
+.slect-area { margin-bottom: 10px; }
+.cs-main-filter h3,
+.cs-main-filter .submit-btn {
+	display: inline-block;
+	float: none;
+}
+table tr th,
+table tbody tr td {
+	font-size: 10px;
+	padding: 6px;
+}
+.img-text-right { overflow: inherit; }
+.cs-error-content h2 { font-size: 70px; }
+.cs-error-content h3 { font-size: 32px; }
+.cs-error-content h4 { font-size: 22px; }
+.cs-error-content .cs-search-area > form { padding: 0 10px; }
+.back-home {
+	float: none;
+	display: inline-block;
+	margin: 0 0 10px 0;
+}
+.cs-error-content .cs-search-area input.btn {
+	float: none;
+	margin: 10px 0 0 0;
+}
+.cs-error-content .cs-social-media ul li { margin-right: 6px; }
+.countdownHolder span { font-size: 140px; }
+.countSeconds {
+	margin-left: -15px;
+	margin-right: -30px;
+}
+.countDiv:before,
+.countDiv::after { display: none; }
+.wrapper .breadcrumb-sec {
+	background-size: cover !important;
+	min-height: 325px;
+}
+.cs-Sermon-detail .cs-info-detail li { margin: 0 13px 12px 0; }
+.cs-Sermon-detail .cs-info-detail { width: 26%; }
+.cs-audio-sec .jp-audio {
+	width: 92%;
+	margin-bottom: 10px;
+}
+.cs-quicklinks-pastor .cs-quick-links-content .cs-gallery-content figcaption p { height: 44px; }
+.navbar-top-links {
+	float: none;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+.cs-instagram .second-effect:hover .mask { border: 108px solid rgba(0, 0, 0, 0.7); }
+.page-content .cs-prayer-list article .inner-sec:before { left: 15px; }
+.page-content .cs-prayer-list .bottom-sec { padding: 20px 30px 20px 40px; }
+.page-content .cs-prayer-list .cs-sharepost {
+	display: inline-block;
+	float: none;
+}
+.page-content .cs-prayer-list .likes-area { width: 90%; }
+.page-content .cs-events.list .cs-share-post { float: left; }
+.cs-gallery.small ul li { width: 100%; }
+.page-content .cs-sermon-detail .cs-info-detail {
+	width: 100%;
+	padding: 12px 0 0 50px;
+	text-align: left;
+}
+.page-content .cs-posted { width: 100%; }
+#main .list-hours-info ul li:nth-child(2n+1) { width: 40%; }
+#main .list-hours-info ul li:nth-child(2n+2) { width: 60%; }
+#main .list-hours-info { padding: 10px; }
+#header .search-sec form { width: 290px; }
+.blog-medium.blog-small .cs-media {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.rtl .cs-blog.cs-sermons-list article .cs-blog-text,
+.cs-blog-text { width: 100%; }
+.rtl .cs-sermon-list figure{
+	margin:0 0 20px 30px;
+}
+.rtl .cs-audio .jp-audio .jp-type-single .jp-progress{
+	left:18% !important;
+}
+.cs-blog .cs-thumb { margin-bottom: 20px; }
+.cs-main-filter ul li { margin-left: 0; }
+.cs-sermon.list .sermon-icon a {
+	border-top: 1px solid #dddddd;
+	border-left: 0;
+	width: 100%;
+	text-align: center;
+}
+.cs-sermon.list .sermon-icon a:first-child { border: 0; }
+.cs-sermon-list figure { width: 100%; }
+.cs-sermon-list figure img { width: 100%; }
+.cs-sermon-list .cs-text { width: 100%; }
+.cs-blog .cs-audio .jp-audio .jp-type-single .jp-progress {
+	left: 15%;
+	width: 40%;
+}
+/*============ Rtl Responsvies Style ============ */
+.rtl .cs-quicklinks-pastor .cs-gallery-content figure figcaption { padding: 10px 30px 30px 20px!important; }
+.rtl .event-list .cs-share-post a { margin: 0 20px 0 0 !important; }
+.rtl .cs-medium-teamcontent figure figcaption { overflow: hidden; }
+.rtl .dropdown-box { display: none; }
+.rtl .rtl .blog-thumb .jp-audio .jp-type-single .jp-progress,
+.rtl .cs-sermon-detail .jp-audio .jp-type-single .jp-progress { width: 70%; }
+.rtl .blog-thumb .jp-audio .jp-type-single .jp-time-holder,
+.rtl .cs-sermon-detail .jp-audio .jp-type-single .jp-time-holder { right: -60px; }
+.rtl .rtl .blog-thumb .jp-volume-controls,
+.rtl .cs-sermon-detail .jp-volume-controls { right: -95px; }
+.rtl .date .seconds,
+.rtl .date .minutes,
+.rtl .date .hours,
+.rtl .date .days,
+.rtl .date .months,
+.rtl .date .years { margin: 0 0 70px 0; }
+/*.medium-teamcontent figure figcaption {
+  width: 95%;
+}
+.large-team .cs-media {
+	float:none;
+	margin-right:0;
+}
+.large-team img {
+
+  margin: 0px auto;
+}*/
+.cs-cons-text .cs-form {
+	width: 100%;
+	overflow: hidden;
+	float: none;
+}
+.cs-cons-text input[type="text"] {
+	width: 70%;
+	margin: 20px 0;
+}
+.cs-cons-text input[type="submit"] { margin-top: 20px; }
+.cs-cons-text .cs-form::after {
+	top: 63px;
+	right: 75px;
+}
+.cs-team.large .cs-media,
+.cs-small-teamcontent .cs-media { overflow: hidden; }
+.cs-team.large .cs-media,
+.cs-small-teamcontent .cs-media img {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.cs-construction-content img { width: 100% !important; }
+.cs-count-down .countdown-alt-2 .item {
+	margin: 30px 0 !important;
+	float: none !important;
+}
+.cs-cons-text .cs-form { margin-left: 6%; }
+.cs-construction-socials { margin-left: 25px; }
+.cs-cons-text input[type="text"] { width: 83%; }
+.rtl .cs-cons-text input[type="text"] { width: 83%; }
+.rtl .cs-events.list .cs-share-post {
+	margin: 0;
+	padding-right: 40px;
+}
+.rtl .cs-events.list .cs-share-post a { margin: 0 5px 0 0; }
+.rtl .cs-team.large .cs-media,
+.rtl .cs-small-teamcontent .cs-media img { margin: 0; }
+.rtl .cs-small-teamcontent figure figcaption a { padding: 0; }
+.rtl .second-effect:hover .mask { border: 165px solid rgba(0, 0, 0, 0.7); }
+.rtl .cs-default.simple .panel-body { padding: 0 20px 20px 10px; }
+.rtl .cs-blog.cs-sermons-list article .cs-media {
+	width: 130px;
+	margin-bottom: 16px !important;
+}
+.rtl #footer .widget{
+	margin-bottom:30px !important;
+}
+.rtl .cs-team.large .cs-media, .rtl .cs-small-teamcontent .cs-media{
+	margin-bottom:25px;
+}
+.rtl .cs-team.large .cs-media img, .rtl .cs-small-teamcontent .cs-media img{
+	width:100%;
+}
+}
+ @media screen and (max-width: 360px) {
+.cs-blog .cs-audio .jp-audio .jp-type-single .jp-progress { left: 20%; }
+.cs-blog .cs-audio .jp-audio .jp-type-single .jp-time-holder { width: inherit; }
+.rtl .blog-thumb .cs-audio,
+.cs-sermon-detail .cs-audio { padding: 0 10px 20px; }
+.rtl .blog-thumb .jp-audio .jp-type-single .jp-time-holder,
+ .rtl .cs-sermon-detail .blog-thumb .jp-current-time,
+.rtl .cs-sermon-detail .jp-current-time { display: none; }
+.rtl .blog-thumb .jp-audio .jp-type-single .jp-time-holder,
+.rtl .cs-sermon-detail .jp-audio .jp-type-single .jp-time-holder { right: -35px; }
+.rtl .rtl .blog-thumb .jp-volume-controls,
+.rtl .cs-sermon-detail .jp-volume-controls { right: -70px; }
+.rtl .cs-blog .cs-audio .jp-current-time { display: none; }
+.cs-error-content .cs-404-font { font-size: 70px; }
+.cs-error-content .cs-not-found { line-height: 40px; }
+.cs-cons-text .cs-form {
+	width: 100%;
+	overflow: hidden;
+	float: none;
+}
+.cs-cons-text input[type="text"] {
+	width: 70%;
+	margin: 20px 0;
+}
+
+
+.cs-cons-text input[type="submit"] { margin-top: 20px; }
+.cs-cons-text .cs-form::after {
+	top: 62px;
+	right: 35px;
+}
+.rtl .cs-cons-text input[type="text"] { width: 76%; }
+.rtl .second-effect:hover .mask { border: 120px solid rgba(0, 0, 0, 0.7); }
+.rtl .cs-team.large .cs-media, .rtl .cs-small-teamcontent .cs-media{
+	float:none;
+}
+}
+@media screen and (max-width: 320px) {
+#footer .social-media h6 {
+	float: none;
+	margin-bottom: 10px;
+}
+.cs-blog.cs-sermons-list .cs-content { padding-left: 10px; }
+.cs-blog.cs-sermons-list article .cs-blog-text { width: 94%; }
+.cs-events.list .cs-share-post { width: 100%; }
+.event-info .cs-author-sec figure img { width: 100%; }
+.cs-sermon-list .cs-text { padding-right: 5px; }
+.page-content .cs-sermon-list figure { margin: 0 10px 15px 0; }
+.gallery { margin-bottom: 15px; }
+.gallery img { width: 100%; }
+.panel-group.cs-default.simple .panel-heading a { padding-right: 20px; }
+.cs-gallery-content .cs-media { margin-bottom: 20px; }
+.cs-quicklinks-pastor .cs-gallery-content:hover .cs-media figure figcaption { margin-top: -35px; }
+.cs-cons-text .cs-form::after {
+	top: 84px;
+	right: 30px;
+}
+.rtl .cs-construction-socials { margin-left: 0; }
+.rtl .cs-cons-text input[type="text"] { width: 70%; }
+.rtl .second-effect:hover .mask { border: 105px solid rgba(0, 0, 0, 0.7); }
+.rtl .cs-blog .cs-audio .jp-audio .jp-type-single .jp-progress { left: 18%; }
+}

@@ -1,0 +1,1 @@
+[07-Jun-2016 17:42:54 America/Bogota] PHP Fatal error:  Call to undefined function session_register() in /home/ifbbcolombia/public_html/admon/logueo.php on line 20
